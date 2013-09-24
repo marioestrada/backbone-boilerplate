@@ -1,15 +1,15 @@
 backbone-boilerplate
 ====================
 
-###Getting Started
+##Getting Started
 
-1. Install <a href="http://nodejs.org/">node.js</a>
+Install <a href="http://nodejs.org/">node.js</a>
 
-2. Install npm dependencies for the project
+Install npm dependencies for the project
 
     npm install
 
-3. Running the local server
+Running the local server
 
     node server.js
 
